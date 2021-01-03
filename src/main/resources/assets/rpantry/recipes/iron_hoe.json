@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OO",
+		" E",
+        " E"
+    ],
+   
+    "key":
+    {
+       "O": [
+	  {
+        "item": "minecraft:cobbleiron"
+      }
+    ],
+	
+	  "E": [
+	  {
+        "item": "rpantry:formas_stick"
+      },
+	  
+      {
+        "item": "rpantry:milkshake_stick"
+      },
+  
+      {
+        "item": "rpantry:gam_stick"
+      },
+	  
+	  {
+        "item": "minecraft:stick"
+      }
+	  
+    ]
+    },
+   
+
+    "result":
+	{
+    "item": "minecraft:iron_hoe",
+	"count":1
+	}
+}

@@ -1,0 +1,8 @@
+  
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "rpantry:gam_slab_bottom" },
+        "half=top,variant=default": { "model": "rpantry:gam_slab_top" }
+    }
+}

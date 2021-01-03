@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GIS"
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_nugget"
+        },
+		
+		 "S":
+        {
+            "item": "rpantry:spinel"
+        },
+   
+        "I":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:corruption_warp",
+        "count": 1
+    }
+}

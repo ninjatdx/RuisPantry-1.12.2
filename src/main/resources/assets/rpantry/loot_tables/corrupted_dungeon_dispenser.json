@@ -1,0 +1,87 @@
+{
+    "pools": [
+        {
+			"name": "corrupted_temple",
+            "rolls": 4,
+            "entries": [
+               
+				 {
+                    "type": "item",
+                    "name": "rpantry:enigmatic_boots",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:enigmatic_chestplate",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:enigmatic_leggins",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:enigmatic_helmet",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}						
+                    ]
+                }
+            ]
+			}
+
+            ]
+        }

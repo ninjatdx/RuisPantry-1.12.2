@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "title": {
+            "translate": "advancements.ilegal.title"
+        },
+        "description": {
+            "translate": "advancements.ilegal.description"
+        },
+		"hidden" : true
+    },
+    "parent": "rpantry:root",
+    "criteria": {
+        "itemname": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:hmm"
+                    }
+                ]
+            }
+        }
+    }
+}

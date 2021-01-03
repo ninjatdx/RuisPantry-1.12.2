@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OO",
+		"OE",
+        " E"
+    ],
+   
+    "key":
+    {
+         "O": [
+	  {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+	
+	  "E": [
+	  {
+        "item": "rpantry:formas_stick"
+      },
+	  
+      {
+        "item": "rpantry:milkshake_stick"
+      },
+  
+      {
+        "item": "rpantry:gam_stick"
+      },
+	  
+	  {
+        "item": "minecraft:stick"
+      }
+    ]
+    },
+   
+
+    "result":
+	{
+    "item": "minecraft:stone_axe",
+	"count":1
+	}
+}

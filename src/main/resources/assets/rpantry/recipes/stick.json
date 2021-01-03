@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "#",
+        "#"
+    ],
+   
+    "key":
+    {
+        "#":
+        {
+            "item": "rpantry:corrupted_oak_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "minecraft:stick",
+        "count": 4
+    }
+}

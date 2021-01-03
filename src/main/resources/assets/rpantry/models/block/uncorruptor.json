@@ -1,0 +1,97 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "uncorruptor_base": "rpantry:blocks/uncorruptor_base",
+        "uncorruptor_tube": "rpantry:blocks/uncorruptor_tube"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 45, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Center",
+            "from": [ 4, 0, 4 ], 
+            "to": [ 12, 8, 12 ], 
+            "faces": {
+                "north": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] },
+                "east": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] },
+                "south": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] },
+                "west": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] },
+                "up": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#uncorruptor_base", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Tube1",
+            "from": [ 12, 3, 7 ], 
+            "to": [ 15, 5, 9 ], 
+            "faces": {
+                "north": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "east": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "south": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "up": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "down": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] }
+            }
+        },
+        {
+            "name": "Tube2",
+            "from": [ 13, 0, 7 ], 
+            "to": [ 15, 3, 9 ], 
+            "faces": {
+                "north": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "east": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "south": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "west": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "down": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] }
+            }
+        },
+        {
+            "name": "Tube3",
+            "from": [ 1, 3, 7 ], 
+            "to": [ 4, 5, 9 ], 
+            "faces": {
+                "north": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "south": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "up": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "down": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] }
+            }
+        },
+        {
+            "name": "Tube4",
+            "from": [ 0, 2, 6 ], 
+            "to": [ 1, 6, 10 ], 
+            "faces": {
+                "north": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "east": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "south": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "west": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "up": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] },
+                "down": { "texture": "#uncorruptor_tube", "uv": [ 0, 3, 16, 13 ] }
+            }
+        }
+    ]
+}

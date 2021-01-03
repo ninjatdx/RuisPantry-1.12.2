@@ -1,0 +1,6 @@
+{
+"parent": "rpantry:item/formas_bow",
+"textures": {
+"layer0": "rpantry:items/formas_bow_pulling_0"
+}
+}

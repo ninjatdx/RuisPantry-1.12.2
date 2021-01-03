@@ -1,0 +1,6 @@
+{
+    "variants": {
+       "stage=0": { "model": "rpantry:formas_sapling" },
+	   "stage=1": { "model": "rpantry:formas_sapling" }
+    }
+}

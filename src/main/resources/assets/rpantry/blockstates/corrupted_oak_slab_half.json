@@ -1,0 +1,8 @@
+  
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "rpantry:corrupted_oak_slab_bottom" },
+        "half=top,variant=default": { "model": "rpantry:corrupted_oak_slab_top" }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+	  "group": "wooden_door",
+   
+    "pattern":
+    [
+        "RR",
+        "RR",
+        "RR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:corrupted_oak_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:corrupted_oak_door",
+        "count": 3
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "ROR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:gam_ingot"
+        },
+
+        "O":
+        {
+            "item": "minecraft:torch"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:gam_block",
+        "count": 1
+    }
+}

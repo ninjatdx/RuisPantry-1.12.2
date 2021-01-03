@@ -1,0 +1,6 @@
+{
+"parent": "rpantry:item/milkshake_bow",
+"textures": {
+"layer0": "rpantry:items/milkshake_bow_pulling_0"
+}
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "#",
+        "#"
+    ],
+   
+    "key":
+    {
+        "#":
+        {
+            "item": "rpantry:formas_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:formas_stick",
+        "count": 4
+    }
+}

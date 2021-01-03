@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "rpantry:corrupted_oak_slab_double" }
+    }
+}

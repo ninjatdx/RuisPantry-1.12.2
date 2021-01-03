@@ -1,0 +1,64 @@
+{
+    "display": {
+        "icon": {
+            "item": "rpantry:gam_ingot"
+        },
+        "title": {
+            "translate": "advancements.gam.title"
+        },
+        "description": {
+            "translate": "advancements.gam.description"
+        }
+    },
+    "parent": "rpantry:root",
+	"rewards": {
+        "experience": 100
+    },
+    "criteria": {
+        "helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:gam_helmet"
+                    }
+                ]
+            }
+			},
+			
+			"chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:gam_chestplate"
+                    }
+                ]
+            }
+        },
+		
+		"leggins": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:gam_leggins"
+                    }
+                ]
+            }
+        },
+		
+		"boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:gam_boots"
+                    }
+                ]
+            }
+        }
+		
+	}
+}
+

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "rpantry:deep_fryer_on" },
+        "facing=south": { "model": "rpantry:deep_fryer_on", "y": 180 },
+        "facing=west":  { "model": "rpantry:deep_fryer_on", "y": 270 },
+        "facing=east":  { "model": "rpantry:deep_fryer_on", "y": 90 }
+    }
+}

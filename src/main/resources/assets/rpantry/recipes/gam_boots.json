@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:gam_ingot"
+        }
+	},
+    "result":
+    {
+        "item": "rpantry:gam_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "rpantry:blocks/formas_planks",
+        "top": "rpantry:blocks/formas_planks",
+        "side": "rpantry:blocks/formas_planks"
+    }
+}

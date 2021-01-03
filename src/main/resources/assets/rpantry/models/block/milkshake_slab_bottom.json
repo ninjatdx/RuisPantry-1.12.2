@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "rpantry:blocks/milkshake_planks",
+        "top": "rpantry:blocks/milkshake_planks",
+        "side": "rpantry:blocks/milkshake_planks"
+    }
+}

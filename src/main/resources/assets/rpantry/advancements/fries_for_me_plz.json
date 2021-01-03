@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "rpantry:chip"
+        },
+        "title": {
+            "translate": "advancements.fries.title"
+        },
+        "description": {
+            "translate": "advancements.fries.description"
+        }
+    },
+    "parent": "rpantry:root",
+    "criteria": {
+        "itemname": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:chip"
+                    }
+                ]
+            }
+        }
+    }
+}

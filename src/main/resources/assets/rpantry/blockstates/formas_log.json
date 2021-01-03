@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "rpantry:formas_log" },
+        "axis=z":   { "model": "rpantry:formas_log", "x": 90 },
+        "axis=x":   { "model": "rpantry:formas_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "rpantry:formas_bark" }
+    }
+}

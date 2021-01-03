@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:formas_ingot"
+        }
+	},
+    "result":
+    {
+        "item": "rpantry:formas_boots",
+        "count": 1
+    }
+}

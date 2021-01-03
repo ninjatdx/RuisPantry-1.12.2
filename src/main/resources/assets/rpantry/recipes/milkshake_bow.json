@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " SI",
+        "S I",
+        " SI"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "rpantry:milkshake_stick"
+        },
+		 "I":
+        {
+            "item": "minecraft:string"
+        }
+	},
+    "result":
+    {
+        "item": "rpantry:milkshake_bow",
+        "count": 1
+    }
+}

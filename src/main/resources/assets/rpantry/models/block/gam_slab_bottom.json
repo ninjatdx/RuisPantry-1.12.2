@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "rpantry:blocks/gam_planks",
+        "top": "rpantry:blocks/gam_planks",
+        "side": "rpantry:blocks/gam_planks"
+    }
+}

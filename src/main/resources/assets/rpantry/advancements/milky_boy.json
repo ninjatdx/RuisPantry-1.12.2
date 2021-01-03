@@ -1,0 +1,64 @@
+{
+    "display": {
+        "icon": {
+            "item": "rpantry:milkshake_ingot"
+        },
+        "title": {
+            "translate": "advancements.milkshake.title"
+        },
+        "description": {
+            "translate": "advancements.milkshake.description"
+        }
+    },
+    "parent": "rpantry:root",
+	"rewards": {
+        "experience": 100
+    },
+    "criteria": {
+        "helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:milkshake_helmet"
+                    }
+                ]
+            }
+			},
+			
+			"chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:milkshake_chestplate"
+                    }
+                ]
+            }
+        },
+		
+		"leggins": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:milkshake_leggins"
+                    }
+                ]
+            }
+        },
+		
+		"boots": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "rpantry:milkshake_boots"
+                    }
+                ]
+            }
+        }
+		
+	}
+}
+

@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "rpantry:blocks/corrupted_oak_leaves"
+    }
+}

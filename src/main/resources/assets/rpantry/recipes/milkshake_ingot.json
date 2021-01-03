@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "rpantry:milkshake_block"
+    }
+ 
+    ],
+ 
+    "result":
+    {
+        "item": "rpantry:milkshake_ingot",
+        "count": 8
+    }
+}

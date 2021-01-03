@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "YYY",
+        " O ",
+        " O "
+    ],
+   
+    "key":
+    {
+        "Y":
+        {
+            "item": "rpantry:formas_ingot"
+        },
+   
+        "O":
+        {
+            "item": "rpantry:formas_stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:formas_pickaxe",
+        "count": 1
+    }
+}

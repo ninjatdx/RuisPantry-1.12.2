@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "wooden_slab",
+   
+    "pattern":
+    [
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:formas_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:formas_slab_half",
+		"data": 0,
+        "count": 6
+    }
+}

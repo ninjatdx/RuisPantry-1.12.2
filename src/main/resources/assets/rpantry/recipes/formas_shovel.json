@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "Y",
+        "O",
+        "O"
+    ],
+   
+    "key":
+    {
+        "Y":
+        {
+            "item": "rpantry:formas_ingot"
+        },
+   
+        "O":
+        {
+            "item": "rpantry:formas_stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:formas_shovel",
+        "count": 1
+    }
+}

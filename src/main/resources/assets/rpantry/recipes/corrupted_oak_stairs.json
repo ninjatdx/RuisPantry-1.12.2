@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+	 "group": "wooden_stairs",
+   
+    "pattern":
+    [
+        "R  ",
+        "RR ",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:corrupted_oak_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:corrupted_oak_stairs",
+        "count": 4
+    }
+}

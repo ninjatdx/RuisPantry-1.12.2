@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "YY",
+        "YO",
+        " O"
+    ],
+   
+    "key":
+    {
+        "Y":
+        {
+            "item": "rpantry:gam_ingot"
+        },
+   
+        "O":
+        {
+            "item": "rpantry:gam_stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:gam_axe",
+        "count": 1
+    }
+}

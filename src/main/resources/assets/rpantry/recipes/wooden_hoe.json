@@ -1,0 +1,57 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OO",
+		" E",
+        " E"
+    ],
+   
+    "key":
+    {
+       "O": [
+	  {
+        "item": "rpantry:formas_planks"
+      },
+	  
+      {
+        "item": "rpantry:milkshake_planks"
+      },
+  
+      {
+        "item": "rpantry:gam_planks"
+      },
+	  
+	  {
+        "item": "rpantry:corrupted_oak_planks"
+      }
+    ],
+	
+	  "E": [
+	  {
+        "item": "rpantry:formas_stick"
+      },
+	  
+      {
+        "item": "rpantry:milkshake_stick"
+      },
+  
+      {
+        "item": "rpantry:gam_stick"
+      },
+	  
+	  {
+        "item": "minecraft:stick"
+      }
+	  
+    ]
+    },
+   
+
+    "result":
+	{
+    "item": "minecraft:wooden_hoe",
+	"count":1
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+       "stage=0": { "model": "rpantry:milkshake_sapling" },
+	   "stage=1": { "model": "rpantry:milkshake_sapling" }
+    }
+}

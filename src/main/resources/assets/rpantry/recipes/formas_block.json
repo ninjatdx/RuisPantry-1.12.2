@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "ROR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:formas_ingot"
+        },
+   
+        "O":
+        {
+            "item": "minecraft:torch"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:formas_block",
+        "count": 1
+    }
+}

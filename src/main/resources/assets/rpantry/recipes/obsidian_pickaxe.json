@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ODO",
+        " R ",
+        " R "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:stick"
+        },
+   
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+		
+		 "D":
+        {
+            "item": "minecraft:diamond"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:obsidian_pickaxe",
+        "count": 1
+    }
+}

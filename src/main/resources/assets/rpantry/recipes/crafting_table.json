@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OO",
+        "OO"
+    ],
+   
+    "key":
+    {
+       "O": [
+	  {
+        "item": "rpantry:formas_planks"
+      },
+	  
+      {
+        "item": "rpantry:milkshake_planks"
+      },
+  
+      {
+        "item": "rpantry:gam_planks"
+      },
+	  
+	  {
+        "item": "rpantry:corrupted_oak_planks"
+      }
+    ]
+    },
+   
+
+    "result":
+	{
+    "item": "minecraft:crafting_table",
+	"count":1
+	}
+}

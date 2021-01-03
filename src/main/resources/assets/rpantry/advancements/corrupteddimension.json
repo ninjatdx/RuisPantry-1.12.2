@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "rpantry:corruption_warp"
+        },
+        "title": {
+            "translate": "advancements.cdimension.title"
+        },
+        "description": {
+            "translate": "advancements.cdimension.description"
+        }
+    },
+    "parent": "rpantry:root",
+    "criteria": {
+        "entered_nether": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "corruption"
+            }
+        }
+    }
+}

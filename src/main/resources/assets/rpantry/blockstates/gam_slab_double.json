@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "rpantry:gam_slab_double" }
+    }
+}

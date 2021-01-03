@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "B",
+        "O",
+        "S"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:furnace"
+        },
+		
+		"B":
+        {
+            "item": "minecraft:iron_bars"
+        },
+   
+        "O":
+        {
+            "item": "minecraft:cauldron"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:deep_fryer_off",
+        "count": 1
+    }
+}

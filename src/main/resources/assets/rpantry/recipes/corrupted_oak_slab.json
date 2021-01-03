@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "wooden_slab",
+   
+    "pattern":
+    [
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:corrupted_oak_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:corrupted_oak_slab_half",
+		"data": 0,
+        "count": 6
+    }
+}

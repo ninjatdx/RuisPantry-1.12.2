@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " SI",
+        "S I",
+        " SI"
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "rpantry:gam_stick"
+        },
+		 "I":
+        {
+            "item": "minecraft:string"
+        }
+	},
+    "result":
+    {
+        "item": "rpantry:gam_bow",
+        "count": 1
+    }
+}

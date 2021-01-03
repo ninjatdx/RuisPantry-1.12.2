@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "CSC",
+        " S "
+    ],
+   
+    "key":
+    {
+        "S":
+        {
+            "item": "rpantry:spinel"
+        },
+		
+		"B":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+   
+        "C":
+        {
+            "item": "minecraft:comparator"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:uncorruptor",
+        "count": 1
+    }
+}

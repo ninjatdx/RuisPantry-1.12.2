@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "rpantry:milkshake_ingot"
+        }
+	},
+    "result":
+    {
+        "item": "rpantry:milkshake_leggins",
+        "count": 1
+    }
+}

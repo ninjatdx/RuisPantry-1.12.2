@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "rpantry:milkshake_slab_double" }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "YY",
+        " O",
+        " O"
+    ],
+   
+      "key":
+    {
+        "Y":
+        {
+            "item": "minecraft:netherrack"
+        },
+   
+        "O":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:netherrack_hoe",
+        "count": 1
+    }
+}

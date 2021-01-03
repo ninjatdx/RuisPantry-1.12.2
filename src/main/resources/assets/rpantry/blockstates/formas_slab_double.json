@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "rpantry:formas_slab_double" }
+    }
+}

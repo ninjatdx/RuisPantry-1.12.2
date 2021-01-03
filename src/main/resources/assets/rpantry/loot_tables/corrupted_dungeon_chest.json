@@ -1,0 +1,277 @@
+{
+    "pools": [
+        {
+			"name": "corrupted_temple",
+            "rolls": 4,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "rpantry:spinel",
+                    "weight": 20
+                },
+				
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond",
+                    "weight": 20
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:ender_asurite",
+                    "weight": 20
+                },
+                {
+					"type": "item",
+					"name": "minecraft:golden_apple",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_data",
+							"data": 1
+						}
+					]
+				},
+                {
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ]
+                },
+				
+				 {
+                    "type": "item",
+                    "name": "rpantry:formas_boots",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:formas_chestplate",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:formas_leggins",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:formas_helmet",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}						
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:gam_boots",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:gam_chestplate",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:gam_leggins",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:gam_helmet",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}						
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:milkshake_boots",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:milkshake_chestplate",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:milkshake_leggins",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}	
+                    ]
+                },
+				
+				{
+                    "type": "item",
+                    "name": "rpantry:milkshake_helmet",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        },
+						{
+							"function": "set_damage",
+							"damage":
+							{
+							"min":0,
+							"max":1
+							}
+						}						
+                    ]
+                }
+            ]
+			}
+
+            ]
+        }

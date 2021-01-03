@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "Y",
+        "O",
+        "O"
+    ],
+   
+    "key":
+    {
+        "Y":
+        {
+            "item": "rpantry:milkshake_ingot"
+        },
+   
+        "O":
+        {
+            "item": "rpantry:milkshake_stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:milkshake_shovel",
+        "count": 1
+    }
+}

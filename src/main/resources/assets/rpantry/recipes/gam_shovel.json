@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "Y",
+        "O",
+        "O"
+    ],
+   
+    "key":
+    {
+        "Y":
+        {
+            "item": "rpantry:gam_ingot"
+        },
+   
+        "O":
+        {
+            "item": "rpantry:gam_stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "rpantry:gam_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "rpantry:blocks/corrupted_oak_planks",
+        "top": "rpantry:blocks/corrupted_oak_planks",
+        "side": "rpantry:blocks/corrupted_oak_planks"
+    }
+}

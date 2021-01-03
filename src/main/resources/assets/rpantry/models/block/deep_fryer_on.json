@@ -1,0 +1,164 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "cauldron_side": "rpantry:blocks/fryer1",
+        "oil_flow": "rpantry:blocks/oil_flow",
+        "iron_bars": "rpantry:blocks/fryer2"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube1",
+            "from": [ 2, 1, 2 ], 
+            "to": [ 3, 9, 14 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 8 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 12, 8 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 8 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 12, 8 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 12 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 12 ] }
+            }
+        },
+        {
+            "name": "Cube2",
+            "from": [ 13, 1, 2 ], 
+            "to": [ 14, 9, 14 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 8 ] },
+                "east": { "texture": "#cauldron_side", "uv": [ 0, 0, 12, 8 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 8 ] },
+                "west": { "texture": "#cauldron_side", "uv": [ 0, 0, 12, 8 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 12 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 1, 12 ] }
+            }
+        },
+        {
+            "name": "Cube3",
+            "from": [ 3, 1, 2 ], 
+            "to": [ 13, 9, 3 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 8 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 8 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 1 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 1 ] }
+            }
+        },
+        {
+            "name": "Cube4",
+            "from": [ 3, 1, 13 ], 
+            "to": [ 13, 9, 14 ], 
+            "faces": {
+                "north": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 8 ] },
+                "south": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 8 ] },
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 1 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 1 ] }
+            }
+        },
+        {
+            "name": "Cube5",
+            "from": [ 3, 1, 3 ], 
+            "to": [ 13, 2, 13 ], 
+            "faces": {
+                "up": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 10 ] },
+                "down": { "texture": "#cauldron_side", "uv": [ 0, 0, 10, 10 ] }
+            }
+        },
+        {
+            "name": "Cube6",
+            "from": [ 4, 6, 3 ], 
+            "to": [ 6, 8, 13 ], 
+            "faces": {
+                "east": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "west": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "up": { "texture": "#iron_bars", "uv": [ 0, 0, 2, 10 ] }
+            }
+        },
+        {
+            "name": "Cube7",
+            "from": [ 1, 0, 3 ], 
+            "to": [ 15, 1, 4 ], 
+            "faces": {
+                "north": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "east": { "texture": "#iron_bars", "uv": [ 0, 0, 1, 1 ] },
+                "south": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "west": { "texture": "#iron_bars", "uv": [ 0, 0, 1, 1 ] },
+                "up": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "down": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] }
+            }
+        },
+        {
+            "name": "Cube8",
+            "from": [ 1, 0, 12 ], 
+            "to": [ 15, 1, 13 ], 
+            "faces": {
+                "north": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "east": { "texture": "#iron_bars", "uv": [ 0, 0, 1, 1 ] },
+                "south": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "west": { "texture": "#iron_bars", "uv": [ 0, 0, 1, 1 ] },
+                "up": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] },
+                "down": { "texture": "#iron_bars", "uv": [ 0, 0, 14, 1 ] }
+            }
+        },
+        {
+            "name": "Cube9",
+            "from": [ 7, 6, 3 ], 
+            "to": [ 9, 8, 13 ], 
+            "faces": {
+                "east": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "west": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "up": { "texture": "#iron_bars", "uv": [ 0, 0, 2, 10 ] }
+            }
+        },
+        {
+            "name": "Cube10",
+            "from": [ 10, 6, 3 ], 
+            "to": [ 12, 8, 13 ], 
+            "faces": {
+                "east": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "west": { "texture": "#iron_bars", "uv": [ 0, 0, 10, 2 ] },
+                "up": { "texture": "#iron_bars", "uv": [ 0, 0, 2, 10 ] }
+            }
+        },
+        {
+            "name": "Cube11",
+            "from": [ 3, 6, 3 ], 
+            "to": [ 13, 7, 13 ], 
+            "faces": {
+                "up": { "texture": "#oil_flow", "uv": [ 0, 0, 10, 10 ] },
+                "down": { "texture": "#oil_flow", "uv": [ 0, 0, 10, 10 ] }
+            }
+        }
+    ]
+}
